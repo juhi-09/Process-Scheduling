@@ -236,7 +236,7 @@ int main()
         }
         
     }
-
+    cout<<"\nSafe sequence is:"<<endl;
     while (!seq.empty() && !flag)
     {
         cout << seq.front() << " ";
